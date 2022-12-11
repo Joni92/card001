@@ -1,5 +1,5 @@
 # card001
-cool testimonial card with animation.
+cool testimonial card with animation. HTML & CSS only.
 
 ✅ Link GitHub Pages -> preview:
 
